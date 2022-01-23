@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NaidJamak
+- 👀 I’m interested in learning all types of new techonologies with the aim of learning game development in the future.
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: naidjamak@hotmail.com
